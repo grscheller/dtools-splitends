@@ -9,6 +9,14 @@ PyPI dtools.queues project.
 
 ## Releases and other important milestones
 
+### Version 0.28.1.1 - Updated CHANGELOG.md
+
+- forgot to update CHANGELOG.md on last commit
+
+### Version 0.28.1 - PyPI release date 2025-04-22
+
+- fixed mistake README.md on last PyPI release
+
 ### Version 0.28.0 - PyPI release date 2025-04-22
 
 - first PyPI release from repo dtools.splitends 

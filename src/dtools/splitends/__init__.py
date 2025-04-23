@@ -18,18 +18,18 @@
 Package implementing a singularly linked LIFO queue called a SplitEnd. These
 data structures can safely share data nodes between themselves.
 
-- *class* dtools.splitends.splitend.SE: Mutable LIFO queues (stacks)
+- *class* dtools.splitends.splitend.SplitEnd: Mutable LIFO queues (stacks)
   - which allow for data sharing between different instances
   - each splitend sees itself as a singularly linked list
     - from the "end" of the hair to its "root"
   - multiple instances can form bush like data structures
     - like follicles of hair with split ends
-- *class* dtools.splitends.splitend_node
+- *class* dtools.splitends.splitend_node.SENode
   - data nodes for SplitEnd stacks
 
 """
 
-__version__ = '0.28.1'
+__version__ = '0.28.1.1'
 __author__ = 'Geoffrey R. Scheller'
 __copyright__ = 'Copyright (c) 2023-2025 Geoffrey R. Scheller'
 __license__ = 'Apache License 2.0'
