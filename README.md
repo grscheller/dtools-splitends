@@ -1,4 +1,4 @@
-# Developer Tools - Queues
+# Developer Tools - SplitEnds
 
 Python package containing modules implementing queue-like data
 structures.
