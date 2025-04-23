@@ -9,7 +9,13 @@ PyPI dtools.queues project.
 
 ## Releases and other important milestones
 
-### Version 0.27.1.0 - splitends split out of queues 2025-04-22
+### Version 0.28.0 - PyPI release date 2025-04-22
+
+- first PyPI release from repo dtools.splitends 
+- docstring changes
+- pyproject.toml standardization
+
+### Version 0.27.1.0 - new repo dtools.splitends 2025-04-22
 
 - first development release 
 - dtools.splitends split out of dtools.queues 
