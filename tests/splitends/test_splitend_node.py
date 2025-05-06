@@ -13,7 +13,7 @@
 # limitations under the License.
 
 from __future__ import annotations
-from dtools.fp.err_handling import MB
+from dtools.fp.err_handling import MayBe as MB
 from dtools.splitends.splitend_node import SENode as Node
 
 class Test_Node:
