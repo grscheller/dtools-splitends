@@ -4,8 +4,8 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "dtools.splitends"
-authors = [{ name = "Geoffrey R. Scheller", email = "geoffrey@scheller.com" }]
 version = "0.28.2"
+authors = [{ name = "Geoffrey R. Scheller", email = "geoffrey@scheller.com" }]
 license = { file = "LICENSE" }
 readme = "README.md"
 requires-python = ">=3.12"
@@ -25,7 +25,7 @@ keywords = [
     "SplitEnd",
 ]
 dependencies = [
-    "dtools.fp >= 1.7.0, < 1.8",
+    "dtools.fp >= 1.8.2, < 1.9",
 ]
 
 [project.optional-dependencies]
