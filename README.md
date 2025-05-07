@@ -28,4 +28,4 @@ ______________________________________________________________________
 [1]: https://pypi.org/project/dtools.splitends/
 [2]: https://github.com/grscheller/dtools-splitends/
 [3]: https://grscheller.github.io/dtools-docs/splitends/
-[4]: https://github.com/grscheller/dtools-docs
+[4]: https://github.com/grscheller/dtools-docs/blob/main/README.md
