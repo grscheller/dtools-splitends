@@ -27,5 +27,5 @@ ______________________________________________________________________
 
 [1]: https://pypi.org/project/dtools.splitends/
 [2]: https://github.com/grscheller/dtools-splitends/
-[3]: https://grscheller.github.io/dtools-docs/splitends/
-[4]: https://github.com/grscheller/dtools-docs/blob/main/README.md
+[3]: https://grscheller.github.io/dtools-namespace-projects/splitends/
+[4]: https://github.com/grscheller/dtools-namespace-projects/blob/main/README.md
