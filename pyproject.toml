@@ -25,12 +25,13 @@ keywords = [
     "SplitEnd",
 ]
 dependencies = [
-    "dtools.fp >= 1.8.2, < 1.9",
+    "dtools.containers >=1.0.0, <1.1",
 ]
 
 [project.optional-dependencies]
 test = [
     "pytest >=8.3.5",
+    "dtools.fp >=1.8.2, <1.9",
 ]
 
 [project.urls]

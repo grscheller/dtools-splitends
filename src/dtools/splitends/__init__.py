@@ -18,7 +18,7 @@
 Package implementing a singularly linked LIFO queue called a SplitEnd. These
 data structures can safely share data nodes between themselves.
 
-- *class* dtools.splitends.splitend.SplitEnd: Mutable LIFO queues (stacks)
+- *class* dtools.splitends.splitend.SplitEnd: Mutable stack (LIFO)
   - which allow for data sharing between different instances
   - each splitend sees itself as a singularly linked list
     - from the "end" of the hair to its "root"
