@@ -21,7 +21,7 @@ inaccessible to client code.
 - *module* dtools.splitends.splitend`
   - *class* SplitEnd: Singularly link stack with shareable data nodes
 - *module* dtools.splitends.splitend_node
-  - *class* SENode: node class used by class SplitEnd 
+  - *class* SENode: shareable nodes used by SplitEnd instances
 
 ______________________________________________________________________
 
