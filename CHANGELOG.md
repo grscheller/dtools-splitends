@@ -1,13 +1,22 @@
 # CHANGELOG
 
-PyPI dtools.queues project.
+PyPI dtools.splitends project.
 
-- first digit - major event, epoch, or paradigm shift
-- second digit - breaking API changes, major changes
-- third digit - bug fixes, API additions, breaking API in dev env
-- forth digit - commit count changes/regressions (dev environment only)
+- Strict 3 digit semantic versioning (adopted 2025-05-19)
+  - MAJOR version for incompatible API changes
+  - MINOR version for backward compatible added functionality
+  - PATCH version for backward compatible bug fixes
 
-## Releases and other important milestones
+## Releases and Important Milestones
+
+### Adapting strict Semantic from this point on - date 2025-05-19
+
+- [Semantic Versioning 2.0.0](https://semver.org/)
+- see top of file
+- previous versioning scheme used
+  - first digit - major event, epoch, or paradigm shift
+  - second digit - breaking API changes, major changes
+  - third digit - bug fixes, API additions
 
 ### Version 0.28.1.1 - Updated CHANGELOG.md
 
