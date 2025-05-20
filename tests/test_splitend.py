@@ -14,7 +14,7 @@
 
 from __future__ import annotations
 from dtools.splitends.splitend import SplitEnd as SE
-from dtools.fp.iterables import concat
+from dtools.iterables import concat
 
 class Test_SplitEnds:
     def test_mutate_returns_none(self) -> None:
