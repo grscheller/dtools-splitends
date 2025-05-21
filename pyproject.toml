@@ -4,7 +4,7 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "dtools.splitends"
-version = "0.28.2"
+version = "0.29.0"
 authors = [{ name = "Geoffrey R. Scheller", email = "geoffrey@scheller.com" }]
 license = { file = "LICENSE" }
 readme = "README.md"
@@ -31,7 +31,7 @@ dependencies = [
 [project.optional-dependencies]
 test = [
     "pytest >=8.3.5",
-    "dtools.fp >=1.8.2, <1.9",
+    "dtools.iterables >=2.0.0, <2.1",
 ]
 
 [project.urls]
