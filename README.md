@@ -18,7 +18,7 @@ Singularly linked data structures allowing data to be safely shared
 between multiple instances by making shared data immutable and
 inaccessible to client code.
 
-- *module* dtools.splitends.splitend`
+- *module* dtools.splitends.splitend
   - *class* SplitEnd: Singularly link stack with shareable data nodes
 - *module* dtools.splitends.splitend_node
   - *class* SENode: shareable nodes used by SplitEnd instances
