@@ -1,16 +1,14 @@
 # Developer Tools - SplitEnds
 
 Python package containing modules implementing queue-like data
-structures.
+structures. This project is part of the [Developer Tools for Python][4]
+**dtools.** namespace project.
 
 - **Repositories**
   - [dtools.splitends][1] project on *PyPI*
   - [Source code][2] on *GitHub*
 - **Detailed documentation**
   - [Detailed API documentation][3] on *GH-Pages*
-
-This project is part of the [Developer Tools for Python][4] **dtools.**
-namespace project.
 
 ## Package dtools.splitends
 
